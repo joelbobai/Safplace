@@ -1,0 +1,25 @@
+{
+  "short_name": "Lilly Beauty Fashion",
+  "name": "Welcome to Lilly Beauty Fashion, your go-to online store for premium hair products, stylish handbags, stunning wigs, and fashionable clothing for men, women, and kids. Shop now and experience top-notch quality and exceptional customer service.",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
