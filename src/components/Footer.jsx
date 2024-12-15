@@ -11,7 +11,7 @@ const Footer = () => {
         <div className="flex flex-col items-start justify-center gap-[10%] md:flex-row">
           <div className="flex flex-col items-center justify-center">
             <Link to="/" className="mb-10 bold-20">
-              Lilly Beauty Fashion
+              SafPlace Gift Zworld
             </Link>
             <img src={Logo} alt="" height={300} width={300} />
           </div>
