@@ -6,10 +6,9 @@ const Hero = () => {
   return (
     <section className="relative bg-hero bg-cover bg-center bg-no-repeat h-[811px] w-full">
       <div className="max_padd_container relative top-32 xs:top-52">
-        <h1 className="h1 capitalize max-w-[37rem]">Lilly Beauty Fashion</h1>
+        <h1 className="h1 capitalize max-w-[37rem]">SafPlace Gift Zworld</h1>
         <p className="text-gray-50 regular-16 mt-6 max-w-[33rem] ">
-          Discover the ultimate blend of style and elegance at Lilly Beauty
-          Fashion. From luxurious hair products to chic handbags, stunning wigs,
+          Discover the ultimate blend of style and elegance at SafPlace Gift Zworld. From luxurious hair products to chic handbags, stunning wigs,
           and fashionable clothing for men, women, and kids—our collection is
           curated to meet your unique style needs. Experience quality, variety,
           and exceptional service with every purchase.
